@@ -1,0 +1,61 @@
+id,text,intent,source
+s0,Assignment kab submit karni hai?,assignment,human_seed
+s1,Sir assignment ki deadline extend hui hai?,assignment,human_seed
+s2,Can I submit the assignment late?,assignment,human_seed
+s3,Assignment 3 ka format kya hoga,assignment,llm
+s4,Sir kya assignment hard copy mein jama karwani hai?,assignment,human_real
+s5,due date for assignment 4 kab tak hai,assignment,human_real
+s6,Final exam kis date ko hai?,exam,human_seed
+s7,When is the midterm paper?,exam,human_seed
+s8,Sir exam hall mein kaunsa room hoga,exam,llm
+s9,Midterm ka syllabus kya hai,exam,llm
+s10,paper recheck karwana hai kaise apply karun,exam,human_real
+s11,Is the final exam open book?,exam,human_real
+s12,Meri attendance short hai.,attendance,human_seed
+s13,My attendance is 68% what should I do?,attendance,human_seed
+s14,Attendance condonation ke liye kahan apply karna hai,attendance,llm
+s15,Sir maine leave li thi attendance lag jaye gi?,attendance,llm
+s16,mjhe 3 lectures miss ho gaye attendance pe asar parega?,attendance,human_real
+s17,how many absences are allowed in this course,attendance,human_real
+s18,Can I withdraw this course?,course_withdrawal,human_seed
+s19,Mujhe course withdraw karna hai because I can't manage it,course_withdrawal,human_seed
+s20,Course drop karne ki last date kya hai,course_withdrawal,llm
+s21,If I withdraw will it show on my transcript?,course_withdrawal,llm
+s22,withdraw krne se GPA pe farq parta hai?,course_withdrawal,human_real
+s23,sir mujhe ye course chorna hai,course_withdrawal,human_real
+s24,Course registration kab start hogi?,registration,human_seed
+s25,How do I add a course after registration closes?,registration,human_seed
+s26,Section change karwana hai kya process hai,registration,llm
+s27,Prerequisite ke baghair course register ho sakta hai?,registration,llm
+s28,registration portal kab khulega next sem ka,registration,human_real
+s29,can i switch my section to B,registration,human_real
+s30,Fee challan kab generate hoga?,fee,human_seed
+s31,Can I pay my fee in installments?,fee,human_seed
+s32,Late fee fine kitna lagega,fee,llm
+s33,Fee submit kar di hai lekin portal pe show nahi ho rahi,fee,llm
+s34,scholarship ke baad fee kitni bachegi,fee,human_real
+s35,refund milega agar course drop kar du?,fee,human_real
+s36,Mera LMS login nahi ho raha.,tech_support,human_seed
+s37,I forgot my portal password,tech_support,human_seed
+s38,Sir LMS pe file upload error aa raha hai,tech_support,llm
+s39,Email access nahi mil raha university wala,tech_support,llm
+s40,password reset ka link nahi aa raha,tech_support,human_real
+s41,LMS ka authentication kaam nahi kar raha,tech_support,human_real
+s42,Mera grade kab upload hoga?,grades,human_seed
+s43,Can I see my quiz marks?,grades,human_seed
+s44,Result mein galti hai kahan complain karun,grades,llm
+s45,What is the grade correction process?,grades,llm
+s46,sessional marks abhi tak kyun nahi lage,grades,human_real
+s47,mera CGPA update nahi hua,grades,human_real
+s48,Class ka time change hua hai?,schedule,human_seed
+s49,Is tomorrow's lecture cancelled?,schedule,human_seed
+s50,Makeup class kab hogi,schedule,llm
+s51,Room change ho gaya hai kya lab ka,schedule,llm
+s52,monday ki class shift hui hai kya,schedule,human_real
+s53,what time is the section A lecture,schedule,human_real
+s54,Library kab tak khuli hoti hai,other,human_seed
+s55,How do I get a transcript?,other,human_seed
+s56,Degree ke liye kitne credit hours chahiye,other,llm
+s57,Society join karne ka process kya hai,other,llm
+s58,sir recommendation letter chahiye,other,human_real
+s59,Where can I find the academic calendar?,other,human_real

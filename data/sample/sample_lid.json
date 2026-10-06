@@ -1,0 +1,260 @@
+[
+  {
+    "id": "l0",
+    "tokens": [
+      "Mujhe",
+      "assignment",
+      "submit",
+      "karni",
+      "hai",
+      "before",
+      "Friday"
+    ],
+    "labels": [
+      "UR",
+      "EN",
+      "EN",
+      "UR",
+      "UR",
+      "EN",
+      "EN"
+    ]
+  },
+  {
+    "id": "l1",
+    "tokens": [
+      "Mera",
+      "LMS",
+      "login",
+      "nahi",
+      "ho",
+      "raha",
+      "."
+    ],
+    "labels": [
+      "UR",
+      "EN",
+      "EN",
+      "UR",
+      "UR",
+      "UR",
+      "OTHER"
+    ]
+  },
+  {
+    "id": "l2",
+    "tokens": [
+      "Can",
+      "I",
+      "withdraw",
+      "this",
+      "course",
+      "agar",
+      "meri",
+      "attendance",
+      "70%",
+      "hai",
+      "?"
+    ],
+    "labels": [
+      "EN",
+      "EN",
+      "EN",
+      "EN",
+      "EN",
+      "UR",
+      "UR",
+      "EN",
+      "NUM",
+      "UR",
+      "OTHER"
+    ]
+  },
+  {
+    "id": "l3",
+    "tokens": [
+      "Final",
+      "exam",
+      "kis",
+      "date",
+      "ko",
+      "hai",
+      "?"
+    ],
+    "labels": [
+      "EN",
+      "EN",
+      "UR",
+      "EN",
+      "UR",
+      "UR",
+      "OTHER"
+    ]
+  },
+  {
+    "id": "l4",
+    "tokens": [
+      "Sir",
+      "fee",
+      "challan",
+      "kab",
+      "generate",
+      "hoga",
+      "?"
+    ],
+    "labels": [
+      "EN",
+      "EN",
+      "UR",
+      "UR",
+      "EN",
+      "UR",
+      "OTHER"
+    ]
+  },
+  {
+    "id": "l5",
+    "tokens": [
+      "Is",
+      "the",
+      "deadline",
+      "extended",
+      "?"
+    ],
+    "labels": [
+      "EN",
+      "EN",
+      "EN",
+      "EN",
+      "OTHER"
+    ]
+  },
+  {
+    "id": "l6",
+    "tokens": [
+      "Class",
+      "ka",
+      "time",
+      "change",
+      "hua",
+      "hai",
+      "?"
+    ],
+    "labels": [
+      "EN",
+      "UR",
+      "EN",
+      "EN",
+      "UR",
+      "UR",
+      "OTHER"
+    ]
+  },
+  {
+    "id": "l7",
+    "tokens": [
+      "Mera",
+      "grade",
+      "kab",
+      "upload",
+      "hoga",
+      "?"
+    ],
+    "labels": [
+      "UR",
+      "EN",
+      "UR",
+      "EN",
+      "UR",
+      "OTHER"
+    ]
+  },
+  {
+    "id": "l8",
+    "tokens": [
+      "Sir",
+      "attendance",
+      "short",
+      "hai",
+      "so",
+      "can",
+      "I",
+      "sit",
+      "in",
+      "final",
+      "?"
+    ],
+    "labels": [
+      "EN",
+      "EN",
+      "EN",
+      "UR",
+      "UR",
+      "EN",
+      "EN",
+      "EN",
+      "EN",
+      "EN",
+      "OTHER"
+    ]
+  },
+  {
+    "id": "l9",
+    "tokens": [
+      "Registration",
+      "kab",
+      "start",
+      "hogi",
+      "?"
+    ],
+    "labels": [
+      "EN",
+      "UR",
+      "EN",
+      "UR",
+      "OTHER"
+    ]
+  },
+  {
+    "id": "l10",
+    "tokens": [
+      "Quiz",
+      "2",
+      "ke",
+      "marks",
+      "upload",
+      "nahi",
+      "hue"
+    ],
+    "labels": [
+      "EN",
+      "NUM",
+      "UR",
+      "EN",
+      "EN",
+      "UR",
+      "UR"
+    ]
+  },
+  {
+    "id": "l11",
+    "tokens": [
+      "Please",
+      "extend",
+      "the",
+      "deadline",
+      "to",
+      "5",
+      "pm"
+    ],
+    "labels": [
+      "EN",
+      "EN",
+      "EN",
+      "EN",
+      "EN",
+      "NUM",
+      "EN"
+    ]
+  }
+]

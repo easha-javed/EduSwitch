@@ -1,0 +1,7 @@
+# Transformer training (Colab and Kaggle already ship with torch)
+-r requirements.txt
+torch>=2.1
+transformers>=4.40
+datasets>=2.18
+accelerate>=0.28
+peft>=0.10
